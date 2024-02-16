@@ -21,5 +21,5 @@
 
 
 <img width="337" alt="Screenshot 2024-02-16 at 19 14 52" src="https://github.com/esmakocak/JPApexPredators/assets/101140922/5369d521-47ec-4c4d-a1bc-fa8eacabff7a">
-<img width="337" alt="Screenshot 2024-02-16 at 19 07 42" src="https://github.com/esmakocak/JPApexPredators/assets/101140922/e10f7b64-8895-4601-a539-b07d59a73c71">
+<img width="300" alt="Screenshot 2024-02-16 at 19 07 42" src="https://github.com/esmakocak/JPApexPredators/assets/101140922/e10f7b64-8895-4601-a539-b07d59a73c71">
 
